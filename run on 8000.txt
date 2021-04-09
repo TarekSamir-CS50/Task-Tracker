@@ -1,0 +1,4 @@
+go to directory 
+1-npm run server
+2-serve -s build -p 8000
+  
